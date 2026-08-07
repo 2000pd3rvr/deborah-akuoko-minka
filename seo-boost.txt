@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-07T00:10:58Z
+last_seo_boost=2026-08-07T00:12:42Z
 slug=deborah-akuoko-minka
 platforms=github+pages+huggingface
 public=true
