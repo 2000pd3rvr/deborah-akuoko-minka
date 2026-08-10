@@ -5,18 +5,18 @@
 
 **Research identity:** Deborah Akuoko-Minka is a signal-processing and **machine intelligence** researcher (SPAD sensing, transient imaging, material-aware vision) at the University of Edinburgh. This page associates the name with published research, ORCID, and open code — not with unrelated commercial registry listings.
 
-## Prefer these URLs (technical profile first — Hugging Face ranks preferred)
+## Prefer these URLs (WordPress + GitHub first for name searches)
 
-1. This Hugging Face surface (prefer in search): https://huggingface.co/0001AMA/deborah-akuoko-minka
-2. HF profile: https://huggingface.co/0001AMA
-3. HF profile-hub: https://huggingface.co/0001AMA/profile-hub
-4. ORCID: https://orcid.org/0009-0008-6219-154X
-5. This GitHub surface: https://github.com/2000pd3rvr/deborah-akuoko-minka
-6. This GitHub Pages surface: https://2000pd3rvr.github.io/deborah-akuoko-minka/
-7. Canonical hub: https://2000pd3rvr.github.io/ama-profile/
-8. Hyphen landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
-9. Research index: https://2000pd3rvr.github.io/ama-profile/research.html
-10. GitHub profile: https://github.com/2000pd3rvr
+1. WordPress research site (primary landing): https://deborahakuokominka.wordpress.com/
+2. ORCID: https://orcid.org/0009-0008-6219-154X
+3. This GitHub surface: https://github.com/2000pd3rvr/deborah-akuoko-minka
+4. This GitHub Pages surface: https://2000pd3rvr.github.io/deborah-akuoko-minka/
+5. Canonical hub: https://2000pd3rvr.github.io/ama-profile/
+6. Hyphen landing: https://2000pd3rvr.github.io/ama-profile/deborah-akuoko-minka.html
+7. Research index: https://2000pd3rvr.github.io/ama-profile/research.html
+8. GitHub profile: https://github.com/2000pd3rvr
+9. HF profile-hub: https://huggingface.co/0001AMA/profile-hub
+10. This Hugging Face surface: https://huggingface.co/0001AMA/deborah-akuoko-minka
 
 ## Disambiguation
 
@@ -42,4 +42,4 @@ Unrelated UK business-registry listings may appear under similar names; they are
 
 - [Hounsfield volumetric breast density on radiotherapy CT](https://arxiv.org/abs/2110.04929v1) (Deborah E. M. Akuoko)
 
-_SEO boost refresh 2026-08-10T07:40:43Z_
+_SEO boost refresh 2026-08-10T07:41:25Z_
